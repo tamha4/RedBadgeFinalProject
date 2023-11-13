@@ -1,0 +1,1 @@
+* Manga Store Final RedBadge Project
